@@ -2,6 +2,7 @@ language: generic
 os: osx
 matrix:
   include:
+    - os: windows
     - os: linux
       env: COMPILER_NAME=gcc CXX=g++-5 CC=gcc-5
       addons:
@@ -17,4 +18,4 @@ matrix:
         apt:
           packages:
             - clang-3.8
-          sources: *sources
+sources: *sources
