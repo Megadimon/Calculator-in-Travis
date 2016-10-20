@@ -1,3 +1,3 @@
 #Calculator
 
-[![Build Status](https://github.com/Megadimon/Calculator-in-Travis)](https://github.com/Megadimon/Calculator-in-Travi)
+[![Build Status](https://travis-ci.org/Megadimon/Calculator-in-Travis.svg?branch=master)](https://travis-ci.org/Megadimon/Calculator-in-Travis)
