@@ -46,7 +46,6 @@ double sq ( float a )
 	}
 		else if ( a == 1 ) xn1 = 1;
 			else if ( a == 0 ) xn1 = 0;
-				else cout << "error";
 
 
 	return xn1;
